@@ -137,7 +137,7 @@
     "character": "Ichiban Kasuga",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -147,7 +147,7 @@
     "character": "Various protagonists",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "それもまた一興",
@@ -157,7 +157,7 @@
     "character": "Nobunaga Oda",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -166,7 +166,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 17,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
