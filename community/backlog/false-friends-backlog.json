@@ -168,7 +168,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -348,7 +348,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 39,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -374,7 +374,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 3)",
     "example": "駅前のマンションに住んでいます。",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -530,7 +530,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -710,7 +710,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -890,7 +890,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
